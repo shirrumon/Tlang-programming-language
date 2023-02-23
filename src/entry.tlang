@@ -1,0 +1,14 @@
+get
+    let a = 5
+    let b = 10
+    print a
+    print b
+
+    a = 99
+    b = 199
+    print a
+    print b
+
+    //a = b + a
+    //print a
+out
